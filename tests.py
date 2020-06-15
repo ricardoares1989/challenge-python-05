@@ -23,4 +23,5 @@ if __name__ == '__main__':
         def tearDown(self):
             del(self.strings)
 
+
     unittest.main()
